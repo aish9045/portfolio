@@ -1,4 +1,5 @@
 import './App.css';
+import { HashRouter } from 'react-router-dom';
 import { useState } from 'react';
 import Header from '../components/header/Header';
 import Home from '../components/home/Home';
